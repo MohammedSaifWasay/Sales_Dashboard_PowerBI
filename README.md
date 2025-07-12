@@ -8,12 +8,6 @@ This project explores sales data from a multi-category retail business using Pow
 
 - **Tool Used:** Power BI (Version 2.115)
 - **Dataset Source:** [Kaggle - Sales Analytics Dataset](https://www.kaggle.com/datasets/rkumar/sales-analytics)
-- **Team Members:**
-  - Saif Wasay Mohammed
-  - Akanksha Chapra
-  - Guancheng Lu
-  - Nagarjun Srinivasan
-
 ---
 
 ## 🧠 Business Overview
